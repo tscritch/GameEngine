@@ -1,0 +1,17 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GameEngine", "GameEngine\GameEngine.csproj", "{72C3D2F8-3D8B-4E14-A3E4-9C245D87C41C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{72C3D2F8-3D8B-4E14-A3E4-9C245D87C41C}.Debug|x86.ActiveCfg = Debug|x86
+		{72C3D2F8-3D8B-4E14-A3E4-9C245D87C41C}.Debug|x86.Build.0 = Debug|x86
+		{72C3D2F8-3D8B-4E14-A3E4-9C245D87C41C}.Release|x86.ActiveCfg = Release|x86
+		{72C3D2F8-3D8B-4E14-A3E4-9C245D87C41C}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+EndGlobal
